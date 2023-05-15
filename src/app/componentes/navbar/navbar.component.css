@@ -1,0 +1,20 @@
+/*Estilo logo */
+.logoAP {
+    filter: invert();
+     
+}
+
+/*Estilo redes */
+#redes{
+  text-align: center;
+}
+
+li {
+list-style-type: none;
+}
+
+.list-group-item  {
+   border: none;
+   color:black;
+}
+

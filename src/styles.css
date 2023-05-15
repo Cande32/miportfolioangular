@@ -1,1 +1,50 @@
-/* You can add global styles to this file, and also import other style files */
+*  {
+    margin:0%;
+    padding: 0.2%;
+}
+
+body{
+    background-color: #0f0f0f;
+    color: #ebe9e7;
+    display:grid;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+
+
+.btn {
+    background-color:rgb(250, 247, 247);
+}
+
+
+/*Estilo fondo modal*/
+.modal-content {
+     background-color: #5d1804;  
+}
+
+
+h2 {
+    border-style: solid; 
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.4;
+    margin-top: 2%;  
+ }
+ 
+ /*Estilo titulos en h1*/
+ h1{
+     background-color:rgb(255, 255, 255,0.2);
+     background-size: cover;
+     border-style: solid;
+     color: black;
+     position: absolute;
+     left: 10%;
+     top: 30%;
+     display: flex;
+     flex-direction: column;
+     width: auto; 
+     height: auto;
+     font-family: monospace;
+     line-height: 1.4;       
+ }

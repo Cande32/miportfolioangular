@@ -1,0 +1,15 @@
+/*Estilo logo */
+.logoAP {
+    filter: invert();
+     
+}
+
+
+li {
+list-style-type: none;
+}
+
+.list-group-item  {
+   border: none;
+   color:black;
+}

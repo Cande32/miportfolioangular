@@ -1,0 +1,13 @@
+/*Estilo imagen perfil*/
+.img-fluid {
+    width: 150%;
+    border-radius: 10%;  
+}
+
+/*Estilo fondo seccion sobre mi*/
+#sobreMi{
+    background-color:#5d1804;
+    background-size: cover;
+    border-style: solid;
+    color: black;    
+}

@@ -1,0 +1,36 @@
+ <!-- Seccion educacion -->
+ <section>
+    <div class="container" id="educacion" >
+      <h2>Educacion</h2>
+      <div class="row" *ngFor="let estudios of estudiosList">
+        <div class="col-1">
+        </div>
+        <div class="col-8">
+          <h4>{{estudios.certificado}}</h4>
+          <h6>{{(estudios.inicio)}} - {{(estudios.fin)}}</h6>
+            <p>
+              {{estudios.institucion}}
+            </p>
+        </div>
+    <!-- Boton editar educacion -->    
+        <div class="col-3">
+          <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#editarEducacionModal"><i class="fa-sharp fa-solid fa-pen"></i>
+          </button>
+        <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#eliminarEducacionModal"><i class="fa-solid fa-trash-can"></i>
+          </button>
+        </div>
+      </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-1">
+        </div>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#agregarEducacionModal"><i class="fa-solid fa-plus"></i>
+    </button> 
+        </section>
+        <app-modal-educacion></app-modal-educacion>
+        <!--Fin seccion educacion-->
+
+      

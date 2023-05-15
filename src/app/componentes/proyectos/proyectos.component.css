@@ -1,0 +1,19 @@
+/*Estilo imagen proyecto
+.imgProyecto {
+    width: 150%;
+}*/
+
+.img-fluid {
+    filter: blur(8px); 
+}
+
+
+/*Estilo fondo seccion proyectos*/
+#proyectos{
+    background-color: #5d1804;
+    border-radius: 0.8%;
+    text-align: center;
+    border-style: solid;
+    color: black;
+
+}

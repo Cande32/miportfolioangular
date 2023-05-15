@@ -1,0 +1,200 @@
+{
+    "nombre": "./Candela Ferreyra Garcia []",
+    "titulo": "Full Stack Developer Jr;",
+    "banner": "../assets/img/library-849797_1280.jpg",
+    "imgPerfil": "../assets/img/Photo.png",
+    "sobremi": "Tengo experiencia mayormente en areas administrativas, pero actualmente trabajo en el area de sistemas y tecnologia  de un organismo publico de la provincia de cordoba, y busco adentrarme en la rama del desarrollo web, aplicando los conocimientos adquiridos en este curso y otros realizados con anterioridad, siguiendo en constante capacitacion",
+  
+
+   "redes":[
+   {
+      "id": 1,
+      "nombre": "Git Hub",
+      "url": "https://github.com/Cande32"  
+   },
+   {
+      "id": 2,
+      "nombre": "Linkedin",
+      "url": "https://www.linkedin.com/feed/"
+   }
+],      
+
+"experiencias":[
+ {
+    "id": 1,
+    "empresa": "Estudio Contable",
+    "inicio": "(marzo 2006",
+    "fin": "agosto 2007)",
+    "tarea": "Trabajos de liquidacion de sueldos, liquidacion de IVA, Ingresos Brutos, Comercio e Industria, tramites bancarios, oficinas publicas, archivo de documentacion"  
+ },
+ {
+    "id": 2,
+    "empresa": "Lotería de la Provincia de Córdoba SE - Area de Sistemas",
+    "inicio": "(agosto 2007",
+    "fin": "julio 2008)",
+    "tarea": "Tareas administrativas, redaccion de notas e informes, y de control de maquinas tragamonedas para su homologacion"
+ },
+ {
+    "id": 3,
+    "empresa":"Legislatura de la Provincia de Córdoba - Jurado de Enjuiciamiento de Funcionarios y Magistrados del Poder Judicia",
+    "inicio": "(diciembre 2008",
+    "fin": "diciembre 2012)",
+    "tarea": "Tareas administrativas, recepcion, redaccion de notas e informes, agenda, secretaria privada del Legislador a cargo y auxiliar"
+ },
+ {
+    "id": 4,
+    "empresa": "Ministerio de Gobierno y Seguridad de la Provincia de Cordoba - Secretaria Privada",
+    "inicio": "(enero 2014",
+    "fin": "agosto 2022)",
+    "tarea": "Secretaria Privada, realizando tareas administrativas, archivo, recepción, redacción de notas e informes, expediente electronico"
+ },
+ {
+    "id": 5,
+    "empresa": "Ministerio de Gobierno y Seguridad de la Provincia de Cordoba - Direccion Gral de Tecnologias de Informacion y Comunicaciones",
+    "inicio": "(agosto 2022",
+    "fin": "actualidad)",
+    "tarea": "Tareas administrativas, expediente electronico, control de insumos informaticos, soporte tecnico, testing, base de datos"
+ }
+],
+
+"estudios":[
+    {
+        "id": 1,
+        "institucion": "Estudios Secundarios - Instituto Juan Zorrilla de San Martin",
+        "inicio": "(marzo 1999",
+        "fin": "diciembre 2004)",
+        "certificado": "Bachiller Orientado en Economía y Gestion de las Organizaciones, Especialidad Gestion Administrativa."
+     },
+     {
+        "id": 2,
+        "institucion": "Centro de Estudios Fotograficos",
+        "inicio": "(marzo 2006",
+        "fin": "diciembre 2006)",
+        "certificado": "Curso de Fotografía y Photoshop"
+     },
+     {
+        "id": 3,
+        "institucion": "Facultad de Lenguas - Universidad Nacional de Cordoba",
+        "inicio": "(mayo 2007",
+        "fin": "mayo 2008)",
+        "certificado": "Curso de Ingles Nivel 1º y Nivel 2º"
+     },
+     {
+        "id": 4,
+        "institucion": "Facultad de Lenguas - Universidad Nacional de Cordoba",
+        "inicio": "(mayo 2008",
+        "fin": "septiembre 2008)",
+        "certificado": "Curso de Portugues Nivel 1º"
+     },
+     {
+        "id": 5,
+        "institucion": "Ministerio de Industria, Comercio y Trabajo de la Provincia de Córdoba, La Voz del Interior e Intercontact Argentina S.A. Gestion del Conocimiento",
+        "inicio": "(junio 2011",
+        "fin": "septiembre 2011)",
+        "certificado": "Herramientas Basicas de Informatica"
+     },
+     {
+        "id": 6,
+        "institucion":"Gobierno de la Provincia de Cordoba - Direccion de Capacitacion",
+        "inicio": "(agosto 2019",
+        "fin": "septiembre 2019)",
+        "certificado": "Prezi Editor de Presentaciones Online"
+     },
+     {
+        "id": 7,
+        "institucion": "Direccion de Desarrollo Gobierno de la Provincia de Cordoba - SENAF - Defensoria del Pueblo ",
+        "inicio": "(agosto 2020",
+        "fin": "octubre 2020)",
+        "certificado": "NNYA Proteccion Digital y Uso de Redes Sociales"
+     },
+     {
+        "id": 8,
+        "institucion": "Secretaria General de la Gobernacion Provincia de Cordoba ",
+        "inicio": "(abril 2021",
+        "fin": "junio 2021)",
+        "certificado": "Introduccion a la Comunicacion Digital"
+     },
+     {
+        "id": 9,
+        "institucion":"Instituto Nacional de la Administracon Publica (INAP) ",
+        "inicio": "(abril 2022",
+        "fin": "julio 2022)",
+        "certificado": "Big Data - Haciendo hablar a los Datos"
+     },
+     {
+        "id": 10,
+        "institucion": "Instituto Nacional de la Administracon Publica (INAP) ",
+        "inicio": "(julio 2022",
+        "fin": "septiembre 2022)",
+        "certificado": "La Gestion Estatal en la Era Digital"
+     },
+     {
+        "id": 11,
+        "institucion": "Agencia Conectividad Cordoba y el Centro de Capacitacion en Alta Tecnologia para Latinoamerica y el Caribe",
+        "inicio": "(abril 2022",
+        "fin": "agosto 2022)",
+        "certificado": "Ciberseguridad, Ciberdelito y Privacidad de Internet"
+     },
+     {
+      "id": 11,
+      "institucion": "INTI, Ministerio de Economia Argentina, Secretaria de Industria y Desarrollo Productivo y CESSI",
+      "inicio": "",
+      "fin": "(junio 2022)",
+      "certificado": "#SeProgramar - Plan Argentina Progama"
+   }
+
+],
+ "habilidades":[
+    {
+        "id": 1,    
+        "nombre": "Html",
+        "porcentaje": 70
+    },
+    {
+        "id": 2, 
+        "nombre": "CSS",
+        "porcentaje": 75
+    },
+    {
+        "id": 3, 
+        "nombre": "Boostrap",
+        "porcentaje": 65
+    },  
+    {
+        "id": 4, 
+        "nombre": "JavaScript",
+        "porcentaje": 50
+    },
+    {
+        "id": 5, 
+        "nombre": "MySql",
+        "porcentaje": 80
+     },        
+    {
+        "id": 6, 
+        "nombre": "Java",
+        "porcentaje": 50
+    }, 
+    {
+        "id": 7, 
+        "nombre": "Angular",
+        "porcentaje": 50
+    },        
+    {
+        "id": 8, 
+        "nombre": "TypeScript",
+        "porcentaje": 45
+    }       
+],
+
+ "proyectos":[
+   {
+       "id": 1, 
+       "titulo": "Mi Proyecto",  
+       "imgProyecto":"../assets/img/Presentación2.png",
+       "descripcion": "Proyecto final del curso #YoProgramo del Plan Argentina Programa. Se emplearon conocimientos en HTML, CSS y JavaScript, incorporando luego Angular como Framework y TypeScript como lenguaje para el diseño del FrontEnd. Se utilizo MySQL como base de datos para luego conectar con el BackEnd, a traves de Spring Boot como framework + JPA + Hibernate con Java como lenguaje. Se aplicaron tambien conceptos de DevOps, Testing, Seguridad Web y Comunicación Efectiva."
+   }
+]
+
+    
+}

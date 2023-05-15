@@ -1,0 +1,21 @@
+/*Estilo imagen perfil*/
+.img-fluid {
+    width: 150%;
+    border-radius: 10%; 
+}
+
+.img-thumbnail {
+    filter: blur(8px); 
+}
+
+.carousel-inner {
+    filter: blur(8px); 
+}
+
+/*Estilo fondo seccion sobre mi*/
+#sobreMi{
+    background-color:#5d1804;
+    background-size: cover;
+    border-style: solid;
+    color: black;    
+}

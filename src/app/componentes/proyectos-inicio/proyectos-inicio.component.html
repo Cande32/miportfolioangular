@@ -1,0 +1,24 @@
+<!-- Seccion proyectos-->
+<section>
+    <h2>Proyectos</h2>
+    <div class="container" id="proyectos">
+      <div class="row" *ngFor="let proyectos of proyectosList">
+       <div class="col-sm-5">
+        <h3>Mi Portolio</h3>
+         <p> {{proyectos.descripcion}}
+          </p>
+        </div>
+         <div class="col-sm-5">
+            <img [src]="proyectos.imgProyecto" class="img-fluid"  [alt]= "proyectos.titulo" title="Portfolio Candela Ferreyra">
+          </div>  
+      </div>
+        <div class="col-sm-2">      
+       </div>
+     </div>
+     
+  </section>
+  
+  
+  <!--Fin seccion proyectos-->
+
+ 

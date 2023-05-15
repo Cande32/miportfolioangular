@@ -1,0 +1,30 @@
+ <!-- Seccion banner-->
+ <section> 
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+     <div class="carousel-inner">
+       <div class="carousel-item active">
+         <img [src]="banner" class="d-block w-100" alt="banner" title="banner">  
+         <h1><strong> {{nombre}} <br/> {{titulo}} <br/> </strong> </h1>    
+      </div>
+    </div> 
+   </div>           
+  </section>
+ <!--Fin seccion banner-->  
+ <!-- Seccion Sobre mi-->
+ <section> 
+   <div class="container text-center" id="sobreMi">
+     <div class="row">
+     <div class="col-xs-2 col-sm-4 col-md-4 col-lg-3">
+         <img class="img-fluid" class="img-thumbnail" [src]="imgPerfil" title="Candela Ferreyra Garcia">
+       </div>
+     <div class="col-xs-12 col-sm-1 col-md-1 col-lg-1">
+       </div> 
+     <div class="col-xs-12 col-sm-7 col-md-7 col-lg-8">
+         <h3>Sobre mi</h3>
+         <p>{{sobremi}}</p>
+     </div>      
+    </div>
+   </div>
+ </section>
+ <!--Fin seccion sobre mi-->
+

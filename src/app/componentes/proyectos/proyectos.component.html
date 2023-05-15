@@ -1,0 +1,31 @@
+<!-- Seccion proyectos-->
+<section>
+    <h2>Proyectos</h2>
+    <div class="container" id="proyectos">
+      <div class="row" *ngFor="let proyectos of proyectosList">
+       <div class="col-sm-5">
+        <h3>Mi Portolio</h3>
+         <p> {{proyectos.descripcion}}
+          </p>
+        </div>
+         <div class="col-sm-5">
+           <h4>Imagen</h4>
+            <img class="img-fluid" [src]="proyectos.imgProyecto" [alt]="proyectos.titulo" title="Portfolio Candela Ferreyra">
+          </div>  
+      </div>
+        <div class="col-sm-2">
+    <!-- Boton editar proyectos -->
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#editarProyectosModal"><i class="fa-sharp fa-solid fa-pen"></i>
+            </button>
+             <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#agregarProyectosModal"><i class="fa-solid fa-plus"></i>
+            </button> 
+            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#eliminarProyectosModal"><i class="fa-solid fa-trash-can"></i>
+            </button>          
+       </div>
+       <app-modal-proyectos></app-modal-proyectos> 
+     </div>
+     
+  </section>
+  
+  
+  <!--Fin seccion proyectos-->

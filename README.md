@@ -1,27 +1,51 @@
-# Miportfolioangular
+# Iniciando
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+03/23 Entrega de los primeros repositorios desafio modulo 1 
+ #Iniciando maqueta en html 
+ #Iniciando css
+ #Boostrap
 
-## Development server
+ #Banner me caracteriza por leer y ver tv/cine
+ #No decido los colores
+ #Tengo solo dos redes profesionales
+ #Pasar todos los modales al final para mas organizacion
+ #Ordenar el proyecto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+ #Recordar cambiar imagen del proyecto!
+ #Recordar ver imagen de perfil!
 
-## Code scaffolding
+ #Recordar si puedo cambiar carrousel antes de entregar final
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+04/23 #Fin de maqueta estatica
 
-## Build
+04/23 Agregarle iconos a las habilidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+04/23 #Entrega desafio modulo 2
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#Despues de entregar maqueta estatica
+04/23 Pude poner mi nombre en el banner y creo que responsive
 
-## Running end-to-end tests
+04/23 Pude hacer efecto transparente
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+04/23 Cambie a responsive secciones educacion y experiencia 
 
-## Further help
+04/23 Modifique colores y tamaños y fuentes
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+#Subir todo de nuevo
+
+#Ver tema modales
+
+#En seccion Banner  modal de Edicion solamente para las imagenes porque el contenido no puede quedar vacio
+
+04/23 Corregidos los modales vuelvo a subir maqueta estatica
+
+05/23 Terminar de inyectar servicios en seccion redes
+
+05/23 Envie base de datos modelo, despues tuve que hacer modificaciones en los atributos en el json
+
+05/23 Entidades listas en Netbeans
+
+
+
+

@@ -1,0 +1,13 @@
+/*Estilo redes */
+#redes{
+    text-align: right;
+  }
+  
+  li {
+  list-style-type: none;
+  }
+  
+ .list-group-item  {
+     border: none;
+     color:black;
+  }
